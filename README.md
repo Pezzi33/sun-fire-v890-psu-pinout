@@ -1,4 +1,4 @@
-sun-fire-v890-psu-pinout
+Sun Fire V890 psu Pinout
 ========================
 
 
@@ -25,7 +25,7 @@ To start the Power Supply shorten Pins x4y1 to GND and x3y3 to GND.
 
 
 ### Reprap Ramps ###
-Connection of the Powersupply to your Reprap Ramps Shield
+Example connection of the Powersupply to a Reprap Ramps Shield v1.4
 
 * x3y3  ->  Ramps PS-ON
 * x4y3  ->  x3y1
