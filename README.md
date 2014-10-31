@@ -1,7 +1,14 @@
 Sun Fire V890 psu Pinout
 ========================
 
+| 3,3V | 5V | 12V | 48V | 5VSB |
+| --- | --- | --- | --- | --- |    
+| 36A | 28A | 17.5A | 25A | 1,3A |
 
+( Totals to 1.6 kW )
+
+I suspect (!) the Psu for the v880 and v890 to be generally the same with the minor difference of 15 instead of 25 Amps at the 48 Volt Pin. (Which makes no big difference if you intend to power your Peprap Printer with it).
+But it is substantially cheaper, you can get a v880 psu for ~ 20 Euro from Ebay.
 
 
 
