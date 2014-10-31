@@ -7,10 +7,6 @@ Sun Fire V890 psu Pinout
 
 ( Totals to 1.6 kW )
 
-I suspect (!) the Pinout for the v880 and v890 to be generally the same with the minor difference of 15 instead of 25 Amps at the 48 Volt Pin. (Which makes no big difference if you intend to power your Peprap Printer with it).
-But it is substantially cheaper, you can get a v880 psu for ~ 20 Euro from Ebay.
-
-
 
 | OFF |     |     |     |     |  B1 |     | Pins |  x1  |  x2  | x3  |  x4  |  x5  |  x6  |     | A1  |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -39,4 +35,8 @@ Example connection of the Powersupply to a Reprap Ramps Shield v1.4
 * x5y3  ->  Ramps VCC
 * x6y3  ->  Ramps 5V
 
+### V880 Notes: ###
+I suspect (!) the Pinout for the v880 and v890 to be generally the same with the minor difference of 15 instead of 25 Amps at the 48 Volt Pin. (Which makes no big difference if you intend to power your Peprap Printer with it).
+But it is substantially cheaper, you can get a v880 psu for ~ 20 Euro from Ebay.
 
+Please drop me a line if you can verify that the pinout is indeed the same.
